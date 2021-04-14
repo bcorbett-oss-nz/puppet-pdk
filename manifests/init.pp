@@ -2,6 +2,7 @@
 #
 # A description of what this class does
 #
+#
 # @example
 #   include bobc_test_temp
 class bobc_test_temp {
